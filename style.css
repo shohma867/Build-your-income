@@ -89,3 +89,16 @@ header nav ul li a.active {
     text-decoration: underline;
     color: #ffeb3b; /* yellow highlight */
 }
+.blog-btn {
+  background-color: #ff6b6b; /* Bright color */
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.blog-btn:hover {
+  background-color: #ff4757;
+}
